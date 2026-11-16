@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fauna-viva.pages.dev/sitemap.xml
